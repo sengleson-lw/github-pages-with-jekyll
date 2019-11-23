@@ -1,3 +1,7 @@
+---
+title: "Intro to the Senses"
+date: 2019-01-20
+---
 # Senses
 The Ra'firians have studied the effects of goldenberries for millenia. While the effects vary from person to person, there are three general themes:
 
